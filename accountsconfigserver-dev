@@ -1,0 +1,11 @@
+accountsconfigserver.msg =Bem vindos(as) ao Tuyo Accounts Dev application
+accountsconfigserver.build-version=2
+
+accountsconfigserver.mailDetails.hostName=dev-accountsconfigserver@tuyosistema.com
+accountsconfigserver.mailDetails.port=9020
+accountsconfigserver.mailDetails.from=dev-accountsconfigserver@tuyosistema.com
+accountsconfigserver.mailDetails.subject=Detalhes da Conta de Tuyo Bank Dev Environment
+
+accountsconfigserver.activeBranches[0]=Chennai
+accountsconfigserver.activeBranches[1]=Berlin
+accountsconfigserver.activeBranches[2]=Indianapollis
